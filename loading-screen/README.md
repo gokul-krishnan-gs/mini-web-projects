@@ -1,6 +1,6 @@
 # Loading Screen
 
-#### [Live Link 🔗](https://gokul-krishnan-website.github.io/loading-screen/)
+#### [Live Demo 🔗](https://gokul-krishnan-website.github.io/loading-screen/)
 
 ## Description
 
@@ -10,10 +10,13 @@ The animation is lightweight, responsive, and works across modern browsers witho
 
 ### Features
 
-Pure HTML & CSS (no JavaScript required)
+- Pure HTML & CSS (no JavaScript required)
+- Smooth infinite looping animation
+- Clean and minimal design with subtle motion
+- Fully responsive and lightweight
 
-Smooth infinite looping animation
+### Technologies
 
-Clean and minimal design with subtle motion
+- HTML5 – Semantic markup for accessibility and structure
 
-Fully responsive and lightweight
+- CSS3 – Flexbox for layout and keyframe animations
