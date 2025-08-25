@@ -1,5 +1,7 @@
 # Loading Screen
 
+#### [Live Link 🔗](https://gokul-krishnan-website.github.io/loading-screen/)
+
 ## Description
 
 This project is a minimal and elegant loading animation built using HTML and CSS only. The design features four animated dots that scale in sequence, creating a smooth and modern loading effect. Each dot pulses with a timed delay, giving the illusion of continuous motion and keeping the user engaged while content is being loaded.
